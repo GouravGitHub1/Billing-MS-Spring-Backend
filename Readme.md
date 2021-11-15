@@ -1,7 +1,7 @@
 I have created a billing microservice and deployed it on Heroku. Code is present on GitHub and the link is provided below. 
 
 1. Heroku link => https://hacker-bills.herokuapp.com
-2. GitHub link =>
+2. GitHub link => https://github.com/GouravGitHub1/Billing-MS-Spring-Backend
 3. Database: MongoDB is used for storing the data. I have used free mongo atlas to host MongoDB Backend.
 
 APIs=>
